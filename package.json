@@ -1,0 +1,23 @@
+{
+  "name": "stylelint-config-btrip",
+  "version": "0.1.0",
+  "description": "stylelint config",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ming995/stylelint-config-btrip.git"
+  },
+  "keywords": [
+    "css",
+    "stylelint"
+  ],
+  "author": "ming995",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ming995/stylelint-config-btrip/issues"
+  },
+  "homepage": "https://github.com/ming995/stylelint-config-btrip#readme"
+}
